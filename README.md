@@ -37,5 +37,7 @@ Fan Control: Use the buttons on the FAN CONTROL tab, or use the global hotkeys f
 
 Battery Thresholds: Go to the BATTERY tab, adjust the sliders, and click "APPLY SETTINGS". (Settings persist across reboots).
 
+VIRUS TOTAL TEST LINK: https://www.virustotal.com/gui/file/b2bfabeaf524a8e42a84323ce1cd6abb74d5c3a3fc31ad595ace52b94ccfe539/detection
+
 🛑 Hardware Safety Disclaimer
 This utility performs direct low-level hardware manipulation on your laptop's Embedded Controller. Use at your own risk. Although the application is designed to revert to the safe BIOS/Automatic mode upon exit, incorrect use of the lowest speeds without external thermal monitoring could potentially damage hardware.
